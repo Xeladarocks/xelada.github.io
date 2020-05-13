@@ -15,4 +15,4 @@ Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">We
 	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
 </div>
 <br>
-Try it out: [path&#45;tracer](https://xelada.founders.gg/path&#45;tracer/)
+Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
