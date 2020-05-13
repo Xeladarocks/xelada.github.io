@@ -7,7 +7,7 @@ My name is Alex, I am 16 years old and I have experience in C++, JS, Python, SQL
 ### WebGL Terrain
 ![WebGLTerrain Preview](https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/WebGLTerrainEx1.png?raw=true)
 <br>
-Try it out: [Terrain Renderer](https://xelada.founders.gg/WebGLTerrain/)
+Try it out: [WebGLTerrain](https://xelada.founders.gg/WebGLTerrain/)
 
 <br>
 
@@ -16,4 +16,4 @@ Try it out: [Terrain Renderer](https://xelada.founders.gg/WebGLTerrain/)
 	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
 </div>
 <br>
-Try it out: [path tracer](https://xelada.founders.gg/path&#45;tracer/)
+Try it out: [path&#45;tracer](https://xelada.founders.gg/path&#45;tracer/)
