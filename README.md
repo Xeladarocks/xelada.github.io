@@ -5,11 +5,15 @@ My name is Alex, I am 16 years old and I have experience in C++, JS, Python, SQL
 
 ## Projects:
 ### WebGL Terrain
-![WebGLTerrain Preview](https://github.com/Xeladarocks/WebGLTerrain/raw/master/imgs/example1.png | height=100px)
+![WebGLTerrain Preview](https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/WebGLTerrainEx1.png?raw=true)
+<br>
 Try it out: [Live WebGLTerrain Link](https://xeladarocks.github.io/WebGLTerrain/)
 
 <br>
 
 ### CPU Website Path Tracer
-<img src="https://github.com/Xeladarocks/path-tracer/raw/master/imgs/400p2500s%20(2).png" width="400px" height="100px" object-fit="cover">
+<div id="img-wrap">
+	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
+</div>
+<br>
 Try it out: [Live path-tracer Link](https://xeladarocks.github.io/path-tracer/)
