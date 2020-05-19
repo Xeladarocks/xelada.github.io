@@ -1,5 +1,5 @@
 # xelada
-My name is Alex, I am 16 years old and I have experience in C++, JS, Python, SQL and HTML/CSS. Additionally, I've worked with C#, Java and Objective C on a couple projects. I love making visually-pleasing 3D programs such as games and renderers.
+Hello, you've reached the voicemail box of xelada. Please record your message after the beep.
 
 ---
 
