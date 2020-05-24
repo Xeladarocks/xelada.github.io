@@ -16,3 +16,11 @@ Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">We
 </div>
 <br>
 Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
+<br>
+
+### Gravitation Simulation
+<div id="img-wrap">
+	<img alt="gravitation simulation Preview" src="https://github.com/Xeladarocks/jsgravitation/raw/master/imgs/example1.png">
+</div>
+<br>
+Try it out: <a href="https://xelada.founders.gg/jsgravitation/" target="blank">Gravitation Simulation</a>
