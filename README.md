@@ -18,5 +18,5 @@ Try it out: <a href="https://xelada.founders.gg/galaxyjs/" target="blank">Galaxy
 	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
 </a>
 <br>
-Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
+Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">Path Tracer</a>
 <hr>
