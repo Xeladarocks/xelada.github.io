@@ -18,9 +18,9 @@ Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">We
 Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
 <br>
 
-### Gravitation Simulation
+### GalaxyJS
 <div id="img-wrap">
-	<img alt="gravitation simulation Preview" src="https://github.com/Xeladarocks/jsgravitation/raw/master/imgs/example1.png">
+	<img alt="200k particles" src="https://github.com/Xeladarocks/galaxyjs/blob/master/imgs/Annotation%202020-06-22%20192006.png?raw=true">
 </div>
 <br>
-Try it out: <a href="https://xelada.founders.gg/jsgravitation/" target="blank">Gravitation Simulation</a>
+Try it out: <a href="https://xelada.founders.gg/galaxyjs/" target="blank">Galaxy Simulation</a>
