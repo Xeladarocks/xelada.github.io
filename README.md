@@ -20,9 +20,3 @@ Try it out: <a href="https://xelada.founders.gg/galaxyjs/" target="blank">Galaxy
 <br>
 Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
 <hr>
-
-### WebGL Terrain
-![WebGLTerrain Preview](https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/WebGLTerrainEx1.png?raw=true)
-<br>
-Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">WebGLTerrain</a>
-<hr>
