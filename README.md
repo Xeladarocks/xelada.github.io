@@ -4,19 +4,6 @@ Hello, you've reached the voicemail box of xelada. Please record your message af
 ---
 
 ## Projects:
-### WebGL Terrain
-![WebGLTerrain Preview](https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/WebGLTerrainEx1.png?raw=true)
-<br>
-Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">WebGLTerrain</a>
-<br>
-
-### CPU Website Path Tracer
-<div id="img-wrap">
-	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
-</div>
-<br>
-Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
-<br>
 
 ### GalaxyJS
 <div id="img-wrap">
@@ -24,3 +11,18 @@ Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank"
 </div>
 <br>
 Try it out: <a href="https://xelada.founders.gg/galaxyjs/" target="blank">Galaxy Simulation</a>
+<hr>
+
+### WebGL Terrain
+![WebGLTerrain Preview](https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/WebGLTerrainEx1.png?raw=true)
+<br>
+Try it out: <a href="https://xelada.founders.gg/WebGLTerrain/" target="blank">WebGLTerrain</a>
+<hr>
+
+### CPU Website Path Tracer
+<div id="img-wrap">
+	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
+</div>
+<br>
+Try it out: <a href="https://xelada.founders.gg/path&#45;tracer/" target="blank">path&#45;tracer</a>
+<hr>
