@@ -30,3 +30,13 @@ Try it out: <a href="https://xeladarocks.github.io/path&#45;tracer/" target="bla
 <br>
 Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Path Finding</a>
 <hr>
+
+
+### <a href="https://github.com/Xeladarocks/swarm/" target="blank">Robotic Swarm Simulation</a>
+<a href="https://xeladarocks.github.io/swarm/" target="blank" id="img-wrap">
+	<img alt="Swarm Preview" src="https://github.com/Xeladarocks/swarm/blob/master/imgs/download%20(15).png?raw=true">
+</a>
+<br>
+A flock simulator with global robotic organization through local boid interactions.<br />
+Try it out: <a href="https://xeladarocks.github.io/swarm/" target="blank">Swarm</a>
+<hr>
