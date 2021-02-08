@@ -50,7 +50,7 @@ Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Pat
 	<img alt="Validator Preview" src="https://i.imgur.com/LpOTyBV.png">
 </a>
 <br>
-An all-inclusive assistant bot centralized towards supporting staff at validating users.<br />
+An all-inclusive assistant Discord bot centralized towards supporting staff at validating users.<br />
 Use it: <a href="https://discord.com/api/oauth2/authorize?client_id=740630232037326878&permissions=537192513&scope=bot" target="blank">Validator Invite</a>
 <hr>
 
