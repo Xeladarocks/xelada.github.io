@@ -47,7 +47,7 @@ Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Pat
 
 ### <a>Validator</a>
 <a id="img-wrap">
-	<img alt="Validator Preview" src="https://imgur.com/a/yzD8vE3">
+	<img alt="Validator Preview" src="https://imgur.com/LpOTyBV">
 </a>
 <br>
 An all-inclusive assistant bot centralized towards supporting staff at validating users.<br />
