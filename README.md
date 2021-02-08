@@ -7,7 +7,7 @@ Hello, you've reached the voicemail box of Xelada.
 
 ### <a href="https://github.com/Xeladarocks/galaxyjs/" target="blank">GalaxyJS</a>
 <a href="https://xeladarocks.github.io/galaxyjs/" target="blank" id="img-wrap">
-	<img alt="200k particles" src="https://github.com/Xeladarocks/galaxyjs/blob/master/imgs/Annotation%202020-06-22%20192006.png?raw=true">
+	<img alt="200k particles" src="https://github.com/Xeladarocks/galaxyjs/blob/master/imgs/ex2.png?raw=true">
 </a>
 <br>
 Simulation of galactic planetoids orbiting a supermassive blackhole. <br />
