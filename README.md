@@ -15,6 +15,16 @@ Try it out: <a href="https://xeladarocks.github.io/galaxyjs/" target="blank">Gal
 <hr>
 
 
+### <a href="https://github.com/Xeladarocks/pathtracer-cmake/" target="blank">pathtracer-cmake</a>
+<a id="img-wrap">
+	<img alt="Path-Tracer Preview" src="https://github.com/Xeladarocks/pathtracer-cmake/raw/master/imgs/Trophy3.png?raw=true">
+</a>
+<br>
+A path tracing rendering engine created in C++ with CMake compatibility.<br />
+Check it out: <a href="https://github.com/Xeladarocks/pathtracer-cmake/" target="blank">Path-Tracer</a>
+<hr>
+
+
 ### <a href="https://github.com/Xeladarocks/path&#45;tracer/" target="blank">CPU Website Path Tracer</a>
 <a href="https://xeladarocks.github.io/path&#45;tracer/" target="blank" id="img-wrap">
 	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
