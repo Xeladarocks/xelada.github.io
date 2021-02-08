@@ -45,6 +45,16 @@ Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Pat
 <hr>
 
 
+### <a>Validator</a>
+<a id="img-wrap">
+	<img alt="Validator Preview" src="https://github.com/Xeladarocks/validator/raw/master/g_imgs/final.png?raw=true">
+</a>
+<br>
+An all-inclusive assistant bot centralized towards supporting staff at validating users.<br />
+Use it: <a href="https://discord.com/api/oauth2/authorize?client_id=740630232037326878&permissions=537192513&scope=bot" target="blank">Validator Invite</a>
+<hr>
+
+
 ### <a href="https://github.com/Xeladarocks/swarm/" target="blank">Robotic Swarm Simulation</a>
 <a href="https://xeladarocks.github.io/swarm/" target="blank" id="img-wrap">
 	<img alt="Swarm Preview" src="https://github.com/Xeladarocks/swarm/blob/master/imgs/download%20(15).png?raw=true">
