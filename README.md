@@ -10,6 +10,7 @@ Hello, you've reached the voicemail box of Xelada.
 	<img alt="200k particles" src="https://github.com/Xeladarocks/galaxyjs/blob/master/imgs/Annotation%202020-06-22%20192006.png?raw=true">
 </a>
 <br>
+Simulation of galactic planetoids orbiting a supermassive blackhole. <br />
 Try it out: <a href="https://xeladarocks.github.io/galaxyjs/" target="blank">Galaxy Simulation</a>
 <hr>
 
@@ -19,6 +20,7 @@ Try it out: <a href="https://xeladarocks.github.io/galaxyjs/" target="blank">Gal
 	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
 </a>
 <br>
+A "simple" path-tracer made in JS. <br />
 Try it out: <a href="https://xeladarocks.github.io/path&#45;tracer/" target="blank">Path Tracer</a>
 <hr>
 
@@ -28,6 +30,7 @@ Try it out: <a href="https://xeladarocks.github.io/path&#45;tracer/" target="bla
 	<img alt="A* Preview" src="https://github.com/Xeladarocks/astar/blob/master/imgs/Screenshot%202020-09-22%20125514.png?raw=true">
 </a>
 <br>
+A browser integrated informed search algorithm formulated at path-finding to a global node. <br />
 Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Path Finding</a>
 <hr>
 
