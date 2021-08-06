@@ -35,6 +35,16 @@ Try it out: <a href="https://xeladarocks.github.io/path&#45;tracer/" target="bla
 <hr>
 
 
+### <a href="https://github.com/Xeladarocks/threejs/" target="blank">Three.js Experimentation</a>
+<a href="https://xeladarocks.github.io/threejs/" target="blank" id="img-wrap">
+	<img alt="threejs Preview" src="https://github.com/Xeladarocks/threejs/blob/master/Screenshot%202021-08-06%20184747.png?raw=true">
+</a>
+<br>
+My first attack at using three.js (and 3D on the GPU in general). <br />
+Try it out: <a href="https://xeladarocks.github.io/threejs/" target="blank">threejs</a>
+<hr>
+
+
 ### <a href="https://github.com/Xeladarocks/astar/" target="blank">A* Path Finding</a>
 <a href="https://xeladarocks.github.io/astar/" target="blank" id="img-wrap">
 	<img alt="A* Preview" src="https://github.com/Xeladarocks/astar/blob/master/imgs/Screenshot%202020-09-22%20125514.png?raw=true">
