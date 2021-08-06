@@ -31,7 +31,7 @@ Check it out: <a href="https://github.com/Xeladarocks/pathtracer-cmake/" target=
 </a>
 <br>
 Block terrain generation using WebGL. <br />
-Try it out: <a href="https://xeladarocks.github.io/WebGLTerrain/" target="blank">Path Tracer</a>
+Try it out: <a href="https://xeladarocks.github.io/WebGLTerrain/" target="blank">WebGLTerrain</a>
 <hr>
 
 
