@@ -27,7 +27,7 @@ Check it out: <a href="https://github.com/Xeladarocks/pathtracer-cmake/" target=
 
 ### <a href="https://github.com/Xeladarocks/path&#45;tracer/" target="blank">CPU Website Path Tracer</a>
 <a href="https://xeladarocks.github.io/path&#45;tracer/" target="blank" id="img-wrap">
-	<img alt="path-tracer Preview" src="https://github.com/Xeladarocks/xeladarocks.github.io/blob/master/imgs/path-tracerEx1.png?raw=true">
+	<img alt="path-tracer Preview" src="https://raw.githubusercontent.com/Xeladarocks/path-tracer/master/imgs/400p2500s%20(2).png">
 </a>
 <br>
 A "simple" path-tracer made in JS. <br />
