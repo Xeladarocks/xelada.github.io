@@ -65,6 +65,16 @@ Try it out: <a href="https://xeladarocks.github.io/astar/" target="blank">A* Pat
 <hr>
 
 
+### <a href="https://github.com/Xeladarocks/perlin_waves" target="blank">Perlin Streams</a>
+<a href="https://xeladarocks.github.io/perlin_waves/" target="blank" id="img-wrap">
+	<img alt="Perlin Streams Preview" src="https://github.com/Xeladarocks/perlin_waves/blob/master/imgs/Capture.PNG?raw=true">
+</a>
+<br>
+A mesmerizing program intended to please the eye. <br />
+Try it out: <a href="https://xeladarocks.github.io/perlin_waves/" target="blank">Perlin Streams</a>
+<hr>
+
+
 ### <a>Validator</a>
 <a id="img-wrap">
 	<img alt="Validator Preview" src="https://i.imgur.com/LpOTyBV.png">
